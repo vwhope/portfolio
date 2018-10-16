@@ -1,5 +1,5 @@
 # portfolio
-Vicki Hope - Portfolio
+Vicki Hope - Web Dev Portfolio
 
 Deployed Link: [Portfolio](https://vwhope.github.io/portfolio/)
 
