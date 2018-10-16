@@ -20,9 +20,9 @@ Deployed Link: [Portfolio](https://vwhope.github.io/portfolio/)
 * About section photo: alley11022.jpg Alan Hope
 * Services section:
     * computer - [Fabian Grohs](https://unsplash.com/@grohsfabian?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)
-    * camera - 
-    * typewriter keys - 
-    * apple - 
+    * camera - [Math](https://unsplash.com/@builtbymath?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
+    * typewriter keys - [Bob Newman](https://unsplash.com/@newmanx?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
+    * apple - [Carlos Alberto Gómez Iñiguez](https://unsplash.com/@iniguez?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
 
 
 
