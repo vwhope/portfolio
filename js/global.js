@@ -209,7 +209,7 @@
         transition: function(url){ window.location.href = url; }
     });
 
-    // Config Couter up
+    // Config Counter up
     var counterUp = $(".counterUp");
     if (counterUp) {
         counterUp.counterUp({
